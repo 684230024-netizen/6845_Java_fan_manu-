@@ -30,8 +30,8 @@ public class W13_02__basicArray {
 
         System.out.println("Show all average scores: " );
         for(int i=0; i<avgScore.length;i++){
-            System.out.println("blook"+ j + " : " +colors[i]);
-            j++;
+            System.out.println("blook"+ i + " : " +colors[i]);
+            i++;
 
         }
 
